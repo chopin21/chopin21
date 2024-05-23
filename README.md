@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi there! 👋
 
-<!--
-**chopin21/chopin21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Senior Software Engineer with 15+ years in full-stack development. I specialize in .NET, Angular, React, and cloud solutions. Passionate about scalable, secure apps across various industries.
 
-Here are some ideas to get you started:
+**Skills:**
+- .NET, ASP.NET Core
+- React, Angular, Vue
+- Azure, AWS
+- SQL Server, Entity Framework
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Recent Work:**
+- SnapCare: Healthcare Workforce Platform
+- Nexteer Automotive: Digital Transformation
+
+Let’s connect and build something awesome! 🚀
